@@ -1,0 +1,73 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/production/classes/
+/Cinema Room Manager/task/out/test/classes/
+/Topics/Equality/How to compare/out/
+/Topics/Equality/How to compare/out/production/classes/
+/Topics/Equality/Theory/out/
+/Topics/Equality/Theory/out/production/classes/
+/Topics/Equality/True captain/out/
+/Topics/Equality/True captain/out/production/classes/
+/Topics/Errors in programs/It can't be zero/out/
+/Topics/Errors in programs/It can't be zero/out/production/classes/
+/Topics/Errors in programs/Theory/out/
+/Topics/Errors in programs/Theory/out/production/classes/
+/Topics/Errors in programs/What's wrong/out/
+/Topics/Errors in programs/What's wrong/out/production/classes/
+/Topics/For loop and lists/Number in a set/out/
+/Topics/For loop and lists/Number in a set/out/production/classes/
+/Topics/For loop and lists/Theory/out/
+/Topics/For loop and lists/Theory/out/production/classes/
+/Topics/Hierarchy of exceptions/Hierarchy overview/out/
+/Topics/Hierarchy of exceptions/Hierarchy overview/out/production/classes/
+/Topics/Hierarchy of exceptions/NumberFormat/out/
+/Topics/Hierarchy of exceptions/NumberFormat/out/production/classes/
+/Topics/Hierarchy of exceptions/RuntimeException/out/
+/Topics/Hierarchy of exceptions/RuntimeException/out/production/classes/
+/Topics/Hierarchy of exceptions/Theory/out/
+/Topics/Hierarchy of exceptions/Theory/out/production/classes/
+/Topics/Introduction to MutableList/Initializing a mutable list of integers/out/
+/Topics/Introduction to MutableList/Initializing a mutable list of integers/out/production/classes/
+/Topics/Introduction to MutableList/Printing the last element/out/
+/Topics/Introduction to MutableList/Printing the last element/out/production/classes/
+/Topics/Introduction to MutableList/Right ways to create mutable lists/out/
+/Topics/Introduction to MutableList/Right ways to create mutable lists/out/production/classes/
+/Topics/Introduction to MutableList/Theory/out/
+/Topics/Introduction to MutableList/Theory/out/production/classes/
+/Topics/Multi-dimensional list/Corners/out/
+/Topics/Multi-dimensional list/Corners/out/production/classes/
+/Topics/Multi-dimensional list/Indexing rules/out/
+/Topics/Multi-dimensional list/Indexing rules/out/production/classes/
+/Topics/Multi-dimensional list/Kotlin lists/out/
+/Topics/Multi-dimensional list/Kotlin lists/out/production/classes/
+/Topics/Multi-dimensional list/Shapeshifter/out/
+/Topics/Multi-dimensional list/Shapeshifter/out/production/classes/
+/Topics/Multi-dimensional list/Theory/out/
+/Topics/Multi-dimensional list/Theory/out/production/classes/
+/Topics/Taming exceptions/Handle string exception/out/
+/Topics/Taming exceptions/Handle string exception/out/production/classes/
+/Topics/What is an exception/Cause an exception/out/
+/Topics/What is an exception/Cause an exception/out/production/classes/
+/Topics/What is an exception/Theory/out/
+/Topics/What is an exception/Theory/out/production/classes/
+/Topics/What is an exception/What is a stack trace/out/
+/Topics/What is an exception/What is a stack trace/out/production/classes/
+/Topics/When expression/From string to a number/out/
+/Topics/When expression/From string to a number/out/production/classes/
+/Topics/When expression/String processor/out/
+/Topics/When expression/String processor/out/production/classes/
+/Topics/When expression/The army of units/out/
+/Topics/When expression/The army of units/out/production/classes/
+/Topics/When expression/The number of digits/out/
+/Topics/When expression/The number of digits/out/production/classes/
+/Topics/When expression/Theory/out/
+/Topics/When expression/Theory/out/production/classes/
+/Topics/Work with MutableLists/Adding lists/out/
+/Topics/Work with MutableLists/Adding lists/out/production/classes/
+/Topics/Work with MutableLists/Empty/out/
+/Topics/Work with MutableLists/Empty/out/production/classes/
+/Topics/Work with MutableLists/Guard On The Gate/out/
+/Topics/Work with MutableLists/Guard On The Gate/out/production/classes/
+/Topics/Work with MutableLists/Theory/out/
+/Topics/Work with MutableLists/Theory/out/production/classes/
